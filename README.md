@@ -1,5 +1,6 @@
 # vscode setup
 
+only fedora linux only
 
 1)chmod +x install.sh 
 2)./install.sh 
